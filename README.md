@@ -1,4 +1,4 @@
-# control de caudal de canal abierto
+# Control de Caudal de Canal Abierto
 Materiales que se utilizo
 Arduino Mega
 Display LCD 20x4
