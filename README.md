@@ -1,5 +1,5 @@
 # Control de Caudal de Canal Abierto
-Materiales que se utilizo
+Materiales que se utilizaron
 Arduino Mega
 Display LCD 20x4
 Modulo I2C
