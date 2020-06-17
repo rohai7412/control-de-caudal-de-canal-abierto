@@ -1,16 +1,17 @@
 # Control de Caudal de Canal Abierto
-Materiales que se utilizaron
-Arduino Mega
-Display LCD 20x4
-Modulo I2C
-Modulo RTC (DS1307)
-ModuloADS1115 ADC DE 16 BITS
-modulo gsm shield 2
-sensor de velocidad de agua (BIGFOOT)
-Termo magnético dobles
-Clemas porta fusibles
-Clemas de paso
-Fuente de alimentación SITOP Smart
+ 
+ Materiales que se utilizaron:
+* Arduino Mega
+* Display LCD 20x4
+* Modulo I2C
+* Modulo RTC (DS1307)
+* ModuloADS1115 ADC DE 16 BITS
+* Modulo gsm shield 2
+* Sensor de velocidad de agua (BIGFOOT)
+* Termo magnético dobles
+* Clemas porta fusibles
+* Clemas de paso
+* Fuente de alimentación SITOP Smart
 
 Se utilizo un sensor ultrasonico de efecto doppler(Bigfoot) No se requiere calibración. El Bigfoot puede ser alimentado desde sistemas de carga solar utilizando fuentes de alimentación de CC. Las salidas de 4-20 mA se pueden conectar a registradores de datos, sistemas SCADA o sistemas de medición PLC.
 
